@@ -3,5 +3,6 @@ def reverse_each_word(string)
   string.split("").each do |word|
     reversed_words <<< word.reversed
   end
-  reversed_words.join
+  reversed_words.join("")
+  
   
