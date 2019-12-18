@@ -1,3 +1,4 @@
 def reverse_each_word(string)
-  reversed_words
+  reversed_words = []
+  
   
